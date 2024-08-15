@@ -5,10 +5,13 @@ This project is a simple frontend mockup for an AI Image Generator, designed usi
  #Features
  
 Static Interface: A design interface for an AI image generator.
+
 Input Fields: Placeholder input fields for entering text prompts or selecting styles for image generation.
+
 Button Design: A styled button to simulate the generation process.
 
  #Technologies Used
  
 HTML5: For structuring the content.
+
 CSS3: For styling, layout, and responsive design.
